@@ -2,10 +2,10 @@
 SQL Database implementation of e-library system
 
 # Database Specification
-- [link](#1-objectives) Objectives
-- Business rules
-- Design requirements
-- ERD
+- [Objectives](#1-objectives) 
+- [Business rules](#2-business-rules) 
+- [Design requirements](#3-design-requirements) 
+- [ERD](#4-ERD) 
 
 # 1. Objectives
 
