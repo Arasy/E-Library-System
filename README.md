@@ -4,15 +4,14 @@ SQL Database implementation of e-library system
 # Database Specification
 - [Objectives](#1-objectives) 
 - [Business rules](#2-business-rules) 
-- [Design requirements](#3-design-requirements) 
-- [ERD](#4-ERD) 
+- [ERD](#3-ERD)
+- [Implementation](#4-implementation)
 
 # 1. Objectives
 The objectives of the system is to :
-1. Design and maintain a database of library
-2. It also includes the library branches, its books, users, and book lending records
-3. Users are allowed to hold unavailable book and the library maintain the hold queue
-
+1. Design and maintain a library database
+2. Include library branches, books, users, and book lending records
+3. Allow users to place holds on unavailable books and manage the hold queue
 
 # 2. Business rules
 1. User can borrow books from any library as long as the book is available
@@ -25,8 +24,24 @@ The objectives of the system is to :
 8. If the user doesn't borrow the held book within a week, the book is released for other users to borrow
 9. Users can hold at most 2 books
 
+# 3. ERD
+![ERD](https://github.com/Arasy/E-Library-System/blob/main/images/ERD-v4.JPG)
 
-# 3. Design requirements
-
-# 4. ERD
-![Uploading image.png…]()
+# 4. Implementation
+Determine objectives
+&darr
+Designing database
+- Using tools diagrams.net
+&darr
+Implement database
+- Using DBeaver
+- script is [here](https://github.com/Arasy/E-Library-System/blob/main/scripts/table_create.sql)
+&darr
+Create dummy datasets
+- Using Faker
+- script is [here](https://github.com/Arasy/E-Library-System/blob/main/scripts/data_dummy.ipynb)
+- files generated are [here](https://github.com/Arasy/E-Library-System/tree/main/dummy_data)
+&darr
+Implement dummy datasets to postgresql
+- File exported to csv
+- Using DBeaver
