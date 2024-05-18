@@ -15,14 +15,21 @@ create table categories (
     description varchar(255)
 );
 
+drop table if exists authors;
+create table authors (
+    author_id serial primary key,
+    name varchar(50) not null,
+    gender bool
+);
 
 drop table if exists books;
 create table books (
     book_id serial primary key,
     title varchar(255) not null,
-    author varchar(255) not null,
+    author int not null,
     category int,
-    foreign key (category) references categories(category_id)
+    foreign key (category) references categories(category_id),
+    foreign key (author) references authors(author_id)
 );
 
 drop table if exists librarybooks;
