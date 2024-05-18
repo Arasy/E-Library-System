@@ -1,0 +1,6 @@
+library_id,name,address,phone_number,email,status
+0,Sheppard-Wright,"8502 Brian Burg West Joseph, VT 08665",235-753-7881x27805,karlbrown@example.com,permanently closed
+1,Alvarado-Willis,"30887 Campbell Square Herrerafort, MI 11839",001-574-358-5452x653,rayseth@example.com,permanently closed
+2,"Williams, Jackson and Lowe","007 Miller Drive Apt. 051 South Richard, PR 70940",8114291388,mpalmer@example.org,temporary closed
+3,"Wilson, Golden and Molina","975 Jones Road Jasonberg, VA 78521",(821)581-3609x9767,bradleyjackson@example.net,permanently closed
+4,"Hicks, Stewart and Anderson","4215 Finley Ramp Apt. 666 Lopezside, DE 83691",+1-885-690-1415,nconley@example.net,temporary closed

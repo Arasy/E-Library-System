@@ -1,0 +1,31 @@
+user_id,customer_name,gender,date_of_birth,home_address,zip_code,phone_number,email,fav_genres,register_at
+0,Tanner Brock,0,1981-06-21,"56263 Joseph View Turnerchester, PR 94627",94627,358-386-5242x881,catherineobrien@example.net,9,1
+1,Evan Bradford,1,1994-10-14,"27786 Dale Corner Suite 911 South Carol, PR 08298",08298,780-312-0078x67927,benjamin42@example.com,6,4
+2,Angela Rodriguez,0,2001-07-16,"0620 Alisha Oval Suite 916 West Georgeburgh, WA 39822",39822,834-938-0499,ruth46@example.com,14,0
+3,Christopher Cooley,1,1995-09-10,"975 Barrett Mission Wilsonland, IN 45000",45000,8014646732,amycummings@example.com,8,0
+4,Deanna Peterson,0,2014-03-28,"PSC 4191, Box 1257 APO AE 81803",81803,+1-238-844-5386x4398,sethmoore@example.net,0,0
+5,Caroline Green,0,2016-01-15,"2435 West Point Suite 485 Port Jennifer, PR 11997",11997,(515)448-7376x943,chase41@example.com,8,1
+6,Daniel Jenkins,0,1994-04-02,"74285 Carroll Tunnel Suite 250 West Curtisshire, MP 95366",95366,386.489.9300x32566,ocampbell@example.net,7,2
+7,Austin Bryant,1,2000-10-23,"5345 Janet Land New Javiertown, ME 74284",74284,9502815342,lisa88@example.net,5,1
+8,Janice Russell,1,2018-08-14,"297 Brooks View North Rebeccabury, IA 41156",41156,210.977.7871x6961,omitchell@example.net,11,0
+9,Jill Gardner,1,2010-03-09,USNV Harrison FPO AE 33286,33286,549.566.8753,erin32@example.com,7,1
+10,Natalie Perry,1,1980-03-26,"136 Nicholas Course Suite 303 Keithfort, AR 45691",45691,(570)495-7313,dixonjames@example.net,4,0
+11,Cheyenne Lee,1,2015-10-16,"9796 Daniel Terrace Suite 418 Jamesburgh, AZ 78262",78262,890-652-3671x71270,ernesthenry@example.org,7,3
+12,Anita Rogers,0,1994-05-09,"13617 Sarah Mills Patriciachester, AZ 87494",87494,+1-471-961-5753,nancyflynn@example.net,12,3
+13,Daniel Martin,0,2022-05-16,Unit 6901 Box 9031 DPO AP 07083,07083,5487391428,brian31@example.org,4,4
+14,Evelyn Reed,1,2002-04-15,"88861 Suzanne Village Jessicatown, MI 71596",71596,(326)762-6832x0211,stephanie26@example.com,7,0
+15,Regina Edwards,1,1988-06-04,"1906 Steven Crossing South Leslietown, WY 01025",01025,3342515692,milesstephanie@example.org,13,0
+16,Evan Wright,1,1998-03-03,"PSC 8674, Box 0335 APO AA 05573",05573,001-955-981-3374x776,obriendavid@example.org,10,1
+17,Alexis Vincent,0,2014-05-20,"2833 Robertson Bridge Lake Gabrieltown, VI 70722",70722,624-942-5538x525,thompsonkeith@example.net,8,1
+18,Robert Matthews,0,2000-01-10,"2659 Jennifer Mews East Mike, DE 66468",66468,(851)203-2976,patrick52@example.org,6,4
+19,Cynthia Kane,0,1990-03-23,"PSC 9085, Box 1153 APO AA 04657",04657,5446864094,blackhector@example.com,4,4
+20,Ryan Bryant,1,1997-06-16,"47910 Collins Shoal Suite 570 New Michaelton, WV 32610",32610,001-642-516-9886,jocelyn81@example.org,8,4
+21,Shelley Schmitt,0,1996-11-27,"09222 Griffin Square Suite 946 South Jared, TN 21301",21301,993.513.9655,tjackson@example.net,5,0
+22,Katelyn Gibson,0,2022-02-08,"761 Brandon Motorway Suite 841 Stoutfurt, IA 30354",30354,001-275-938-0944,callahanraymond@example.org,4,1
+23,Rebecca Pennington,0,2017-11-26,"42054 Steven Court Suite 467 Deleonshire, OH 92736",92736,857-920-5709,forbesann@example.com,5,0
+24,Rebecca Roberts,1,1970-03-05,"8430 Alex Junctions Taylorburgh, GA 07834",07834,646-985-3917,caitlincortez@example.net,0,1
+25,Lisa Fernandez,1,1984-11-04,"7458 Erin Ridge Apt. 050 North Robin, ID 71436",71436,001-237-734-4055,davidduran@example.net,0,0
+26,Amanda Gibbs,1,1986-03-13,"PSC 6146, Box 2935 APO AP 85043",85043,305.694.8556x164,lindadavis@example.net,5,2
+27,Sandra Barton,1,1978-02-15,"475 Javier Hollow East Emilyton, GU 21213",21213,398.957.8362,cathy69@example.org,6,1
+28,Joseph Bell,1,1974-01-16,"48708 David Garden Suite 317 Lindaland, AR 10805",10805,4023122419,wphillips@example.com,13,3
+29,Tanya Davis,0,2014-09-10,"384 Cassidy Heights Port Blakefurt, NV 75162",75162,563-540-8681x26983,sbutler@example.net,13,0
