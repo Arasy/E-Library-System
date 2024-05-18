@@ -28,20 +28,43 @@ The objectives of the system is to :
 ![ERD](https://github.com/Arasy/E-Library-System/blob/main/images/ERD-v4.JPG)
 
 # 4. Implementation
-Determine objectives
-&darr
-Designing database
+## Determine objectives
+
+&#8595
+
+## Designing database
 - Using tools diagrams.net
-&darr
-Implement database
+
+&#8595
+
+## Implement database
 - Using DBeaver
 - script is [here](https://github.com/Arasy/E-Library-System/blob/main/scripts/table_create.sql)
-&darr
-Create dummy datasets
+
+&#8595
+
+## Create dummy datasets
 - Using Faker
 - script is [here](https://github.com/Arasy/E-Library-System/blob/main/scripts/data_dummy.ipynb)
 - files generated are [here](https://github.com/Arasy/E-Library-System/tree/main/dummy_data)
-&darr
-Implement dummy datasets to postgresql
-- File exported to csv
-- Using DBeaver
+
+&#8595
+
+## Implement dummy datasets to postgresql
+- Dummy datasets exported to csv files
+- Using DBeaver to import
+
+&#8595
+
+## Create questions
+
+&#8595
+
+## Create query to answer the questions
+- script is [here](https://github.com/Arasy/E-Library-System/blob/main/scripts/questions.sql)
+
+&#8595
+
+## Create reports
+- reports are [here](https://github.com/Arasy/E-Library-System/tree/main/reports)
+
